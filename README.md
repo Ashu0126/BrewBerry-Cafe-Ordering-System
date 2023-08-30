@@ -57,7 +57,3 @@ To run this program, follow these steps:
 This program uses the `conio.h` library for some console-related functions. Keep in mind that the `conio.h` library is not a standard C library and might not be available on all systems.
 
 **Disclaimer**: This code is provided as a basic example and may not cover all real-world scenarios or best practices for software development. It's recommended to review and adapt the code to your needs before using it in any serious application.
-
-## Author
-
-This C program was written by Ashish. If you have any questions or suggestions, feel free to contact me at ashish.jaryal14@gmail.com.
